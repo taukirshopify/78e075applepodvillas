@@ -234,6 +234,9 @@
         "template--19018583703859__e63ab835-f825-4862-b338-9a5847de9291-16837347202a22117a-0",
         "template--19018583703859__e63ab835-f825-4862-b338-9a5847de9291-16837347202a22117a-2"
       ],
+      "custom_css": [
+        ".title-wrapper-with-link {align-items: center; justify-content: center;}"
+      ],
       "settings": {
         "title": "WHATS NEARBY",
         "heading_size": "h1",
