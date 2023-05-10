@@ -1,6 +1,13 @@
-<div class="container-fluid">
-  <div class="row">
-     <div class="col-md-5 p-0">
+<div class="container c-wrapper">
+    <div class="row">
+      <div class="col-12">
+        <div class="title text-center">
+            <h1 class="rich-text__heading rte inline-richtext h1">{{ section.settings.h2}}</h1>
+         </div>
+      </div>
+    </div>
+  <div class="row p-0">
+     <div class="col-md-6 p-0">
        <div class="singel-image">
         {{ section.settings.img | image_url: width: 3840 | image_tag:
             loading: 'lazy',
@@ -11,51 +18,63 @@ format: 'webp',
           }}
        </div>
      </div>
-     <div class="col-md-7 p-0">
-       <div class="row">
+     <div class="col-md-6 p-0">
+       <div class="row m-0">
 
-         <div class="col-md-6">
-            {{ section.settings.img1 | image_url: width: 3840 | image_tag:
-                loading: 'lazy',
-                height: height,
-                sizes: "100vw",
-              format: 'webp',
-                widths: '375, 550, 750, 1100, 1500, 1780, 2000, 3000, 3840'
-              }}
-         </div>
-         <div class="col-md-6">
-            {{ section.settings.img2 | image_url: width: 3840 | image_tag:
-                loading: 'lazy',
-                height: height,
-                sizes: "100vw",
-              format: 'webp',
-                widths: '375, 550, 750, 1100, 1500, 1780, 2000, 3000, 3840'
-              }}
-         </div>
-
-       </div>
-       <div class="row">
-
-         <div class="col-md-6">
-            {{ section.settings.img3 | image_url: width: 3840 | image_tag:
-                loading: 'lazy',
-                height: height,
-                sizes: "100vw",
-              format: 'webp',
-                widths: '375, 550, 750, 1100, 1500, 1780, 2000, 3000, 3840'
-              }}
-         </div>
-         <div class="col-md-6">
-            {{ section.settings.img4 | image_url: width: 3840 | image_tag:
-                loading: 'lazy',
-                height: height,
-                sizes: "100vw",
-              format: 'webp',
-                widths: '375, 550, 750, 1100, 1500, 1780, 2000, 3000, 3840'
-              }}
+            <div class="col-md-6 p-0">
+                    <div class="singel-image">
+                    {{ section.settings.img1 | image_url: width: 3840 | image_tag:
+                        loading: 'lazy',
+                        height: height,
+                        sizes: "100vw",
+                    format: 'webp',
+                        widths: '375, 550, 750, 1100, 1500, 1780, 2000, 3000, 3840'
+                    }}
+                </div>
+            </div>
+      
+         <div class="col-md-6 p-0">
+            <div class="singel-image">
+                {{ section.settings.img2 | image_url: width: 3840 | image_tag:
+                    loading: 'lazy',
+                    height: height,
+                    sizes: "100vw",
+                format: 'webp',
+                    widths: '375, 550, 750, 1100, 1500, 1780, 2000, 3000, 3840'
+                }}
+            </div>
          </div>
 
        </div>
+       <div class="row m-0">
+
+            <div class="col-md-6 p-0">
+                    <div class="singel-image">
+                    {{ section.settings.img1 | image_url: width: 3840 | image_tag:
+                        loading: 'lazy',
+                        height: height,
+                        sizes: "100vw",
+                    format: 'webp',
+                        widths: '375, 550, 750, 1100, 1500, 1780, 2000, 3000, 3840'
+                    }}
+                </div>
+            </div>
+      
+         <div class="col-md-6 p-0">
+            <div class="singel-image">
+                {{ section.settings.img2 | image_url: width: 3840 | image_tag:
+                    loading: 'lazy',
+                    height: height,
+                    sizes: "100vw",
+                format: 'webp',
+                    widths: '375, 550, 750, 1100, 1500, 1780, 2000, 3000, 3840'
+                }}
+            </div>
+         </div>
+
+       </div>
+     
+     
 
       </div>
  </div>
@@ -66,6 +85,12 @@ format: 'webp',
         "name": "Image Slide",
         "class": "image",
         "settings": [
+            {
+                "type": "text",
+                "id": "h2",
+                "label": "section tile",
+                "default": "Double room in lovely apartment"
+            },
            {
             "type": "image_picker",
             "id": "img",
@@ -99,3 +124,16 @@ format: 'webp',
             ]
     }
 {% endschema %}
+
+
+
+<style>
+    .c-wrapper img {
+        max-width: 100%;
+        border-radius: 20px;
+    }
+   .singel-image{
+    margin: 5px;
+    overflow: hidden;
+}
+</style>
