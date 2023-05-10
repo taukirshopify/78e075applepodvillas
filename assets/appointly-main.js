@@ -1275,7 +1275,7 @@ if (!window.appointlyConfig) {
       adminMergeTeamMember: true,
       adminCreateDraftOrder: false,
       sendEmail: true,
-      brandingEnabled: true,
+      brandingEnabled: false,
       selectedDepositPaymentOption: -1,
       subscriptionAppointmentMessage: '',
       bookNowDisabled: true,
