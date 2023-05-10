@@ -1,0 +1,101 @@
+<div class="container-fluid">
+  <div class="row">
+     <div class="col-md-5 p-0">
+       <div class="singel-image">
+        {{ section.settings.img | image_url: width: 3840 | image_tag:
+            loading: 'lazy',
+            height: height,
+            sizes: "100vw",
+format: 'webp',
+            widths: '375, 550, 750, 1100, 1500, 1780, 2000, 3000, 3840'
+          }}
+       </div>
+     </div>
+     <div class="col-md-7 p-0">
+       <div class="row">
+
+         <div class="col-md-6">
+            {{ section.settings.img1 | image_url: width: 3840 | image_tag:
+                loading: 'lazy',
+                height: height,
+                sizes: "100vw",
+              format: 'webp',
+                widths: '375, 550, 750, 1100, 1500, 1780, 2000, 3000, 3840'
+              }}
+         </div>
+         <div class="col-md-6">
+            {{ section.settings.img2 | image_url: width: 3840 | image_tag:
+                loading: 'lazy',
+                height: height,
+                sizes: "100vw",
+              format: 'webp',
+                widths: '375, 550, 750, 1100, 1500, 1780, 2000, 3000, 3840'
+              }}
+         </div>
+
+       </div>
+       <div class="row">
+
+         <div class="col-md-6">
+            {{ section.settings.img3 | image_url: width: 3840 | image_tag:
+                loading: 'lazy',
+                height: height,
+                sizes: "100vw",
+              format: 'webp',
+                widths: '375, 550, 750, 1100, 1500, 1780, 2000, 3000, 3840'
+              }}
+         </div>
+         <div class="col-md-6">
+            {{ section.settings.img4 | image_url: width: 3840 | image_tag:
+                loading: 'lazy',
+                height: height,
+                sizes: "100vw",
+              format: 'webp',
+                widths: '375, 550, 750, 1100, 1500, 1780, 2000, 3000, 3840'
+              }}
+         </div>
+
+       </div>
+
+      </div>
+ </div>
+</div>
+
+{% schema %}
+    {
+        "name": "Image Slide",
+        "class": "image",
+        "settings": [
+           {
+            "type": "image_picker",
+            "id": "img",
+            "label": "Select your Image"
+           },
+           {
+            "type": "image_picker",
+            "id": "img1",
+            "label": "Select your Image"
+           },
+           {
+            "type": "image_picker",
+            "id": "img2",
+            "label": "Select your Image"
+           },
+           {
+            "type": "image_picker",
+            "id": "img3",
+            "label": "Select your Image"
+           },
+           {
+            "type": "image_picker",
+            "id": "img4",
+            "label": "Select your Image"
+           }
+        ]   ,
+        "presets": [
+            {
+              "name": "Image Slide"
+            }
+            ]
+    }
+{% endschema %}
