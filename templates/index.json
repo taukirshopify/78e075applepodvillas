@@ -7,10 +7,10 @@
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/Banner-3_0de4ff63-d1cb-4e5d-aa03-61fb581f93e5.jpg",
-            "heading": "Welcome To Apple Pod Villas",
+            "heading": "",
             "heading_size": "h2",
-            "subheading": "Enjoy some of the best dining and Shopping In Brooklyn Newyork !",
-            "button_label": "View Now",
+            "subheading": "",
+            "button_label": "",
             "link": "",
             "button_style_secondary": false,
             "box_align": "middle-center",
