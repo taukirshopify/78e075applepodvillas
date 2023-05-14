@@ -273,6 +273,9 @@
         "template--19018583703859__a6357bd7-cbc6-47e4-a0aa-afb8fdb06338-1683739024cd64db21-5",
         "template--19018583703859__a6357bd7-cbc6-47e4-a0aa-afb8fdb06338-1683739024cd64db21-6"
       ],
+      "custom_css": [
+        "span {color: #fff;}"
+      ],
       "settings": {
         "product": "luxury-room-view-all",
         "color_scheme": "background-1",
