@@ -150,75 +150,6 @@
         "img4": "shopify:\/\/shop_images\/e6350690-55da-4b64-a461-b14cfb65b992.webp"
       }
     },
-    "e63ab835-f825-4862-b338-9a5847de9291": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--19018583703859__e63ab835-f825-4862-b338-9a5847de9291-16837347202a22117a-0": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<ul><li>Kings Theater<\/li><li>Barclays Center<\/li><li>Prospect Park Zoo<\/li><li>Canarsie Pier<\/li><li>BAM - Brooklyn Academy Of Music<\/li><li>Brooklyn Heights Promenade<\/li><li>Brooklyn Museum<\/li><li>NewYork Transit Museum<\/li><li>Brooklyn Bridge Park<\/li><li>Dumbo<\/li><\/ul>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--19018583703859__e63ab835-f825-4862-b338-9a5847de9291-16837347202a22117a-2": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<ul><li>Kings Plaza Mall<\/li><li>Gateway Shopping Mall<\/li><li>Brooklyn Public Library<\/li><li>Brooklyn Botanical Gardens<\/li><li>Foot Prints Restaurant<\/li><li>Suede Restaurant<\/li><li>Yolies Restaurant<\/li><li>Floridian Diner<\/li><li>Arch Diner<\/li><\/ul>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--19018583703859__e63ab835-f825-4862-b338-9a5847de9291-16837347202a22117a-0",
-        "template--19018583703859__e63ab835-f825-4862-b338-9a5847de9291-16837347202a22117a-2"
-      ],
-      "custom_css": [
-        ".title-wrapper-with-link {align-items: center; justify-content: center;}"
-      ],
-      "settings": {
-        "title": "WHATS NEARBY",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 2,
-        "column_alignment": "center",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-2",
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 52
-      }
-    },
-    "7c8b0671-a8c3-4bdd-8170-94e3a26d4400": {
-      "type": "rich-text",
-      "blocks": {
-        "template--19018583703859__7c8b0671-a8c3-4bdd-8170-94e3a26d4400-16837387419acd0bb6-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "FIND US HERE",
-            "heading_size": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "template--19018583703859__7c8b0671-a8c3-4bdd-8170-94e3a26d4400-16837387419acd0bb6-0"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 24,
-        "padding_bottom": 0
-      }
-    },
     "a6357bd7-cbc6-47e4-a0aa-afb8fdb06338": {
       "type": "featured-product",
       "blocks": {
@@ -293,6 +224,75 @@
         "padding_bottom": 36
       }
     },
+    "e63ab835-f825-4862-b338-9a5847de9291": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--19018583703859__e63ab835-f825-4862-b338-9a5847de9291-16837347202a22117a-0": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<ul><li>Kings Theater<\/li><li>Barclays Center<\/li><li>Prospect Park Zoo<\/li><li>Canarsie Pier<\/li><li>BAM - Brooklyn Academy Of Music<\/li><li>Brooklyn Heights Promenade<\/li><li>Brooklyn Museum<\/li><li>NewYork Transit Museum<\/li><li>Brooklyn Bridge Park<\/li><li>Dumbo<\/li><\/ul>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--19018583703859__e63ab835-f825-4862-b338-9a5847de9291-16837347202a22117a-2": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<ul><li>Kings Plaza Mall<\/li><li>Gateway Shopping Mall<\/li><li>Brooklyn Public Library<\/li><li>Brooklyn Botanical Gardens<\/li><li>Foot Prints Restaurant<\/li><li>Suede Restaurant<\/li><li>Yolies Restaurant<\/li><li>Floridian Diner<\/li><li>Arch Diner<\/li><\/ul>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19018583703859__e63ab835-f825-4862-b338-9a5847de9291-16837347202a22117a-0",
+        "template--19018583703859__e63ab835-f825-4862-b338-9a5847de9291-16837347202a22117a-2"
+      ],
+      "custom_css": [
+        ".title-wrapper-with-link {align-items: center; justify-content: center;}"
+      ],
+      "settings": {
+        "title": "WHATS NEARBY",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 52
+      }
+    },
+    "7c8b0671-a8c3-4bdd-8170-94e3a26d4400": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19018583703859__7c8b0671-a8c3-4bdd-8170-94e3a26d4400-16837387419acd0bb6-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "FIND US HERE",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "template--19018583703859__7c8b0671-a8c3-4bdd-8170-94e3a26d4400-16837387419acd0bb6-0"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 24,
+        "padding_bottom": 0
+      }
+    },
     "52995bda-eb4b-455a-9853-2d584ee45757": {
       "type": "custom-liquid",
       "custom_css": [
@@ -311,9 +311,9 @@
     "featured_collection",
     "f52f1fd5-ed3a-4d6d-a670-3533629b4442",
     "06ec2151-5456-4162-9d72-b39574ae4a22",
+    "a6357bd7-cbc6-47e4-a0aa-afb8fdb06338",
     "e63ab835-f825-4862-b338-9a5847de9291",
     "7c8b0671-a8c3-4bdd-8170-94e3a26d4400",
-    "a6357bd7-cbc6-47e4-a0aa-afb8fdb06338",
     "52995bda-eb4b-455a-9853-2d584ee45757"
   ]
 }
