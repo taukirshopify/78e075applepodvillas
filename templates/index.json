@@ -26,6 +26,7 @@
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/Banner-3_0de4ff63-d1cb-4e5d-aa03-61fb581f93e5.jpg",
+            "image2": "shopify:\/\/shop_images\/Banner-2_b9b8679e-f1f5-4932-9e90-0e26d0f5bbff.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -44,6 +45,7 @@
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/Banner-2_1cbb7b74-86ba-42f8-b6a1-c10b805fc540.jpg",
+            "image2": "shopify:\/\/shop_images\/Banner-2_b9b8679e-f1f5-4932-9e90-0e26d0f5bbff.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
