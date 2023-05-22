@@ -149,7 +149,7 @@
       "custom_css": [
         "h1 {color: #000;}",
         ".c-wrapper {margin-bottom: 32px;}",
-        ".title, .title-wrapper-with-link {margin: 0;}"
+        ".title,.title-wrapper-with-link {margin: 0;}"
       ],
       "settings": {
         "h2": "Double room in lovely apartment",
@@ -276,8 +276,8 @@
         "color_scheme": "background-2",
         "columns_mobile": "1",
         "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 52
+        "padding_top": 44,
+        "padding_bottom": 40
       }
     },
     "7c8b0671-a8c3-4bdd-8170-94e3a26d4400": {
