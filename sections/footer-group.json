@@ -45,14 +45,21 @@
             "heading": "Quick links",
             "menu": "footer"
           }
+        },
+        "4e59e6ea-d4f7-468c-aed9-5b021731bd09": {
+          "type": "brand_information",
+          "settings": {
+            "show_social": true
+          }
         }
       },
       "block_order": [
-        "51ba4b25-ad86-4c07-bda7-c165f6355417"
+        "51ba4b25-ad86-4c07-bda7-c165f6355417",
+        "4e59e6ea-d4f7-468c-aed9-5b021731bd09"
       ],
       "settings": {
         "color_scheme": "accent-1",
-        "newsletter_enable": false,
+        "newsletter_enable": true,
         "newsletter_heading": "",
         "enable_follow_on_shop": true,
         "show_social": true,
