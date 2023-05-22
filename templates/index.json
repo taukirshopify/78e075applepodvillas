@@ -146,6 +146,9 @@
     },
     "06ec2151-5456-4162-9d72-b39574ae4a22": {
       "type": "galarrey",
+      "custom_css": [
+        "h1 {color: #000;}"
+      ],
       "settings": {
         "h2": "Double room in lovely apartment",
         "img": "shopify:\/\/shop_images\/image_picker-591-000000C95FF61B6B_5f22fd9d-b075-4431-a220-fd5aaf167413.jpg",
