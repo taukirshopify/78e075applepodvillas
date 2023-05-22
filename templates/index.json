@@ -147,7 +147,8 @@
     "06ec2151-5456-4162-9d72-b39574ae4a22": {
       "type": "galarrey",
       "custom_css": [
-        "h1 {color: #000;}"
+        "h1 {color: #000;}",
+        ".c-wrapper {margin-bottom: 32px;}"
       ],
       "settings": {
         "h2": "Double room in lovely apartment",
