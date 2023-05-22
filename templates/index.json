@@ -148,7 +148,8 @@
       "type": "galarrey",
       "custom_css": [
         "h1 {color: #000;}",
-        ".c-wrapper {margin-bottom: 32px;}"
+        ".c-wrapper {margin-bottom: 32px;}",
+        ".title, .title-wrapper-with-link {margin: 0;}"
       ],
       "settings": {
         "h2": "Double room in lovely apartment",
