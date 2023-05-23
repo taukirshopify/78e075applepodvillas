@@ -10,6 +10,9 @@
     },
     "image-banner": {
       "type": "image-banner",
+      "custom_css": [
+        "h1 {color: #000; text-align: center;}"
+      ],
       "settings": {
         "image_overlay_opacity": 0,
         "image_height": "medium",
