@@ -60,6 +60,9 @@
         "text",
         "button"
       ],
+      "custom_css": [
+        "h1 {color: #000; text-align: center;}"
+      ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
