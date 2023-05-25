@@ -3,10 +3,10 @@
     "main": {
       "type": "main-page",
       "custom_css": [
-        "h1{color: #000; text-align: center;}"
+        "h1 {color: #000; text-align: center;}"
       ],
       "settings": {
-        "padding_top": 0,
+        "padding_top": 20,
         "padding_bottom": 0
       }
     },
@@ -19,10 +19,29 @@
         "padding_top": 16,
         "padding_bottom": 20
       }
+    },
+    "1685030949c4f06b8f": {
+      "type": "apps",
+      "disabled": true,
+      "blocks": {
+        "fa19eec1-d517-4ccd-ace9-dae98bab1a66": {
+          "type": "shopify:\/\/apps\/izyrent-rentals-bookings\/blocks\/productCalendar\/cda4a37a-6d4d-4f3d-b8e5-c19d5c367c6a",
+          "settings": {
+            "product": "luxury-room-view-all"
+          }
+        }
+      },
+      "block_order": [
+        "fa19eec1-d517-4ccd-ace9-dae98bab1a66"
+      ],
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
     "main",
-    "form"
+    "form",
+    "1685030949c4f06b8f"
   ]
 }
