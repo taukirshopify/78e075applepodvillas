@@ -1,33 +1,5 @@
 {
   "sections": {
-    "main": {
-      "type": "main-page",
-      "disabled": true,
-      "settings": {
-        "padding_top": 28,
-        "padding_bottom": 28
-      }
-    },
-    "image-banner": {
-      "type": "image-banner",
-      "custom_css": [
-        "h1 {color: #000; text-align: center;}"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/sld_1.jpg",
-        "image_2": "shopify:\/\/shop_images\/img-3_2.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "accent-2",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
     "rich-text": {
       "type": "rich-text",
       "blocks": {
@@ -71,8 +43,36 @@
         "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
-        "padding_top": 0,
+        "padding_top": 40,
         "padding_bottom": 0
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "image-banner": {
+      "type": "image-banner",
+      "custom_css": [
+        "h1 {color: #000; text-align: center;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/sld_1.jpg",
+        "image_2": "shopify:\/\/shop_images\/img-3_2.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "accent-2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     },
     "multicolumn": {
@@ -242,9 +242,9 @@
     }
   },
   "order": [
+    "rich-text",
     "main",
     "image-banner",
-    "rich-text",
     "multicolumn",
     "multicolumn-1",
     "multicolumn-2"
