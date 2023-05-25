@@ -3,7 +3,8 @@
     "main": {
       "type": "main-page",
       "custom_css": [
-        ".h0 {color: #000;}"
+        ".h0 {color: #000;}",
+        ".rte {color: #000;}"
       ],
       "settings": {
         "padding_top": 28,
