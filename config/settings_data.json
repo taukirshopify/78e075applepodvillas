@@ -127,7 +127,7 @@
     "show_vendor": false,
     "show_cart_note": false,
     "cart_drawer_collection": "",
-    "checkout_logo_image": "shopify:\/\/shop_images\/logo-header.png",
+    "checkout_logo_image": "shopify:\/\/shop_images\/logo-header_1_1.png",
     "checkout_accent_color": "#344a71",
     "checkout_button_color": "#344a71",
     "sections": {
