@@ -61,7 +61,8 @@
         "button"
       ],
       "custom_css": [
-        "h1 {color: #000; text-align: center;}"
+        "h2.rich-text__heading.rte.inline-richtext.h0 {color: #000;}",
+        "p {color: #000;}"
       ],
       "settings": {
         "desktop_content_position": "center",
