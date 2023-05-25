@@ -6,7 +6,7 @@
         "template--19056027566387__738c1e69-d5a8-431c-ac07-508b8ab6e055-168503120131254674-0": {
           "type": "heading",
           "settings": {
-            "heading": "&#9742",
+            "heading": "<span>&#9742;<\/span>",
             "heading_size": "h1"
           }
         },
