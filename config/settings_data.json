@@ -299,5 +299,10 @@
         }
       }
     }
+  },
+  "platform_customizations": {
+    "custom_css": [
+      "button.button {color: #fff;}"
+    ]
   }
 }
