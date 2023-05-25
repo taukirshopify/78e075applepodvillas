@@ -119,7 +119,7 @@
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 40,
-        "padding_bottom": 52
+        "padding_bottom": 0
       }
     },
     "multicolumn-1": {
@@ -137,8 +137,8 @@
         "column-2": {
           "type": "column",
           "settings": {
-            "title": "TEAM MEMBER",
-            "text": "<p>Describe this team member's expertise and unique skills. Consider adding an image to your column to represent this team member. <\/p>",
+            "title": "",
+            "text": "<ul><li>Large TV<\/li><li>Radio<\/li><li>Kitchen and More<\/li><\/ul>",
             "link_label": "",
             "link": ""
           }
