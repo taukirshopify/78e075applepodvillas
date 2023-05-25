@@ -1,5 +1,15 @@
 {
   "sections": {
+    "main": {
+      "type": "main-page",
+      "custom_css": [
+        "h1 {color: #000; text-align: center;}"
+      ],
+      "settings": {
+        "padding_top": 20,
+        "padding_bottom": 0
+      }
+    },
     "738c1e69-d5a8-431c-ac07-508b8ab6e055": {
       "type": "rich-text",
       "blocks": {
@@ -15,40 +25,18 @@
           "settings": {
             "text": "<p>\/\/ html example<br\/>&lt;span&gt;&#9993;&lt;\/span&gt;   info@applepodvillas.com<\/p>"
           }
-        },
-        "template--19056027566387__738c1e69-d5a8-431c-ac07-508b8ab6e055-168503120131254674-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
         }
       },
       "block_order": [
         "template--19056027566387__738c1e69-d5a8-431c-ac07-508b8ab6e055-168503120131254674-0",
-        "template--19056027566387__738c1e69-d5a8-431c-ac07-508b8ab6e055-168503120131254674-1",
-        "template--19056027566387__738c1e69-d5a8-431c-ac07-508b8ab6e055-168503120131254674-2"
+        "template--19056027566387__738c1e69-d5a8-431c-ac07-508b8ab6e055-168503120131254674-1"
       ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "main": {
-      "type": "main-page",
-      "custom_css": [
-        "h1 {color: #000; text-align: center;}"
-      ],
-      "settings": {
-        "padding_top": 20,
+        "padding_top": 0,
         "padding_bottom": 0
       }
     },
@@ -82,8 +70,8 @@
     }
   },
   "order": [
-    "738c1e69-d5a8-431c-ac07-508b8ab6e055",
     "main",
+    "738c1e69-d5a8-431c-ac07-508b8ab6e055",
     "form",
     "1685030949c4f06b8f"
   ]
