@@ -6,14 +6,14 @@
         "template--19056027566387__738c1e69-d5a8-431c-ac07-508b8ab6e055-168503120131254674-0": {
           "type": "heading",
           "settings": {
-            "heading": "<span>&#9742;<\/span>   <a href=\"tel:+3479098581\">347-909-8581<\/a>",
+            "heading": "☎   <a href=\"tel:+3479098581\">347-909-8581<\/a>",
             "heading_size": "h1"
           }
         },
         "template--19056027566387__738c1e69-d5a8-431c-ac07-508b8ab6e055-168503120131254674-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>\/\/ html example<br\/>&lt;span&gt;&#9993;&lt;\/span&gt;   info@applepodvillas.com<\/p>"
           }
         },
         "template--19056027566387__738c1e69-d5a8-431c-ac07-508b8ab6e055-168503120131254674-2": {
