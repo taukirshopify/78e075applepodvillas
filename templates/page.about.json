@@ -14,6 +14,8 @@
         "h1 {color: #000; text-align: center;}"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/sld_1.jpg",
+        "image_2": "shopify:\/\/shop_images\/img-3_2.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
