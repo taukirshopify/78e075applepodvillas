@@ -109,6 +109,9 @@
         "column-2",
         "column-3"
       ],
+      "custom_css": [
+        "p {color: #000;}"
+      ],
       "settings": {
         "title": "",
         "heading_size": "h0",
