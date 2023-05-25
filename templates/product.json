@@ -71,7 +71,8 @@
         "span {color: #000;}",
         "s.price-item.price-item--regular {color: #000;}",
         "button#ProductSubmitButton-template--19056027173171__main {border: 1px solid #000;}",
-        ".product__description.rte.quick-add-hidden {color: #000;}"
+        ".product__description.rte.quick-add-hidden {color: #000;}",
+        "h2 {color: #000;}"
       ],
       "settings": {
         "enable_sticky_info": true,
