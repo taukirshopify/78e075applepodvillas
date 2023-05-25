@@ -76,52 +76,6 @@
         "show_text_below": true
       }
     },
-    "multicolumn-1": {
-      "type": "multicolumn",
-      "blocks": {
-        "column-1": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<ul><li>Free Wifi<\/li><li>Five People can sleep comfortably<\/li><li>Work Desk<\/li><li>Hair Dryer<\/li><\/ul>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column-2": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<ul><li>Large TV<\/li><li>Radio<\/li><li>Kitchen and More<\/li><\/ul>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column-1",
-        "column-2"
-      ],
-      "custom_css": [
-
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "square",
-        "columns_desktop": 2,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-2",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 20,
-        "padding_bottom": 20
-      }
-    },
     "148c9cde-4116-430a-895b-91cdccec937a": {
       "type": "rich-text",
       "blocks": {
@@ -167,6 +121,52 @@
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 0
+      }
+    },
+    "multicolumn-1": {
+      "type": "multicolumn",
+      "blocks": {
+        "column-1": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<ul><li>Free Wifi<\/li><li>Five People can sleep comfortably<\/li><li>Work Desk<\/li><li>Hair Dryer<\/li><\/ul>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column-2": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<ul><li>Large TV<\/li><li>Radio<\/li><li>Kitchen and More<\/li><\/ul>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column-1",
+        "column-2"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 20,
+        "padding_bottom": 20
       }
     },
     "multicolumn": {
@@ -230,8 +230,8 @@
     "rich-text",
     "main",
     "image-banner",
-    "multicolumn-1",
     "148c9cde-4116-430a-895b-91cdccec937a",
+    "multicolumn-1",
     "multicolumn"
   ]
 }
