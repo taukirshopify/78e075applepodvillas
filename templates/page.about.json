@@ -109,6 +109,10 @@
         "template--19056026255667__148c9cde-4116-430a-895b-91cdccec937a-168502600696418d34-1",
         "template--19056026255667__148c9cde-4116-430a-895b-91cdccec937a-168502600696418d34-2"
       ],
+      "custom_css": [
+        "h2.rich-text__heading.rte.inline-richtext.h0 {color: #000;}",
+        "p {color: #000;}"
+      ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
