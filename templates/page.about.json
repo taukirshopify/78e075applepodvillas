@@ -128,8 +128,8 @@
         "column-1": {
           "type": "column",
           "settings": {
-            "title": "TEAM MEMBER",
-            "text": "<p>Describe this team member's expertise and unique skills. Consider adding an image to your column to represent this team member. <\/p>",
+            "title": "",
+            "text": "<ul><li>Free Wifi<\/li><li>Five People can sleep comfortably<\/li><li>Work Desk<\/li><li>Hair Dryer<\/li><\/ul>",
             "link_label": "",
             "link": ""
           }
