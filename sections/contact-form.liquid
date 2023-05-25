@@ -91,6 +91,34 @@
           {%- endif -%}
         </div>
       </div>
+      <div class="contact__fields">
+        <div class="field">
+          <input
+            type="date"
+            id="ContactForm-phone"
+            class="field__input"
+            autocomplete="tel"
+            name="contact[{{ 'templates.contact.form.phone' | t }}]"
+            pattern="[0-9\-]*"
+            value="{% if form.phone %}{{ form.phone }}{% elsif customer %}{{ customer.phone }}{% endif %}"
+            placeholder="{{ 'templates.contact.form.phone' | t }}"
+          >
+          <label class="field__label" for="ContactForm-phone">Check In Date</label>
+        </div>
+        <div class="field">
+          <input
+            type="date"
+            id="ContactForm-phone"
+            class="field__input"
+            autocomplete="tel"
+            name="contact[{{ 'templates.contact.form.phone' | t }}]"
+            pattern="[0-9\-]*"
+            value="{% if form.phone %}{{ form.phone }}{% elsif customer %}{{ customer.phone }}{% endif %}"
+            placeholder="{{ 'templates.contact.form.phone' | t }}"
+          >
+          <label class="field__label" for="ContactForm-phone">Check Out Date</label>
+        </div>
+      </div>
       <div class="field">
         <input
           type="tel"
