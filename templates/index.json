@@ -423,6 +423,9 @@
         "template--19056026976563__f7f12f62-a13d-462d-bf3e-5a65f0b904c5-1684615277dd88673b-1",
         "d53be931-2d61-44a8-ae9e-f4fb5b9ae5f1"
       ],
+      "custom_css": [
+        ".slider-button {color: #000; }"
+      ],
       "settings": {
         "layout": "full_bleed",
         "slide_height": "small",
