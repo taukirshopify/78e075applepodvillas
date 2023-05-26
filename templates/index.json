@@ -400,6 +400,7 @@
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/ProspectPark_Brooklyn_Nethermead.jpg",
+            "image2": "shopify:\/\/shop_images\/ProspectPark_Brooklyn_Nethermead.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
