@@ -382,6 +382,7 @@
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/Banner-1.jpg",
+            "image2": "shopify:\/\/shop_images\/Banner-1.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
