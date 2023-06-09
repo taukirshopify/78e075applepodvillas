@@ -280,83 +280,6 @@
         "padding_bottom": 40
       }
     },
-    "7c8b0671-a8c3-4bdd-8170-94e3a26d4400": {
-      "type": "rich-text",
-      "blocks": {
-        "template--19018583703859__7c8b0671-a8c3-4bdd-8170-94e3a26d4400-16837387419acd0bb6-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "FIND US HERE",
-            "heading_size": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "template--19018583703859__7c8b0671-a8c3-4bdd-8170-94e3a26d4400-16837387419acd0bb6-0"
-      ],
-      "custom_css": [
-        "h2 {color: #000;}"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 24,
-        "padding_bottom": 0
-      }
-    },
-    "52995bda-eb4b-455a-9853-2d584ee45757": {
-      "type": "custom-liquid",
-      "custom_css": [
-        "iframe {width: 100%; height: 600px;}"
-      ],
-      "settings": {
-        "custom_liquid": "<iframe src=\"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d3027.284523910451!2d-73.9241103!3d40.6456581!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25cbd2b61c4a1%3A0x77dd00ef702f85fc!2s452%20E%2056th%20St%2C%20Brooklyn%2C%20NY%2011203%2C%20USA!5e0!3m2!1sen!2sbd!4v1683738471864!5m2!1sen!2sbd\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"><\/iframe>",
-        "color_scheme": "background-1",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "67024b64-cb35-47d0-911a-dd06049c43d0": {
-      "type": "collage",
-      "disabled": true,
-      "blocks": {
-        "template--19056026976563__67024b64-cb35-47d0-911a-dd06049c43d0-168461526676d16f71-0": {
-          "type": "image",
-          "settings": {
-          }
-        },
-        "template--19056026976563__67024b64-cb35-47d0-911a-dd06049c43d0-168461526676d16f71-1": {
-          "type": "product",
-          "settings": {
-            "product": "",
-            "second_image": false
-          }
-        },
-        "template--19056026976563__67024b64-cb35-47d0-911a-dd06049c43d0-168461526676d16f71-2": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--19056026976563__67024b64-cb35-47d0-911a-dd06049c43d0-168461526676d16f71-0",
-        "template--19056026976563__67024b64-cb35-47d0-911a-dd06049c43d0-168461526676d16f71-1",
-        "template--19056026976563__67024b64-cb35-47d0-911a-dd06049c43d0-168461526676d16f71-2"
-      ],
-      "settings": {
-        "heading": "Multimedia collage",
-        "heading_size": "h1",
-        "desktop_layout": "left",
-        "mobile_layout": "column",
-        "card_styles": "product-card-wrapper",
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "f7f12f62-a13d-462d-bf3e-5a65f0b904c5": {
       "type": "slideshow",
       "blocks": {
@@ -437,6 +360,83 @@
         "show_text_below": false,
         "accessibility_info": "Slideshow about our brand"
       }
+    },
+    "7c8b0671-a8c3-4bdd-8170-94e3a26d4400": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19018583703859__7c8b0671-a8c3-4bdd-8170-94e3a26d4400-16837387419acd0bb6-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "FIND US HERE",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "template--19018583703859__7c8b0671-a8c3-4bdd-8170-94e3a26d4400-16837387419acd0bb6-0"
+      ],
+      "custom_css": [
+        "h2 {color: #000;}"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 24,
+        "padding_bottom": 0
+      }
+    },
+    "52995bda-eb4b-455a-9853-2d584ee45757": {
+      "type": "custom-liquid",
+      "custom_css": [
+        "iframe {width: 100%; height: 600px;}"
+      ],
+      "settings": {
+        "custom_liquid": "<iframe src=\"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d3027.284523910451!2d-73.9241103!3d40.6456581!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25cbd2b61c4a1%3A0x77dd00ef702f85fc!2s452%20E%2056th%20St%2C%20Brooklyn%2C%20NY%2011203%2C%20USA!5e0!3m2!1sen!2sbd!4v1683738471864!5m2!1sen!2sbd\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"><\/iframe>",
+        "color_scheme": "background-1",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "67024b64-cb35-47d0-911a-dd06049c43d0": {
+      "type": "collage",
+      "disabled": true,
+      "blocks": {
+        "template--19056026976563__67024b64-cb35-47d0-911a-dd06049c43d0-168461526676d16f71-0": {
+          "type": "image",
+          "settings": {
+          }
+        },
+        "template--19056026976563__67024b64-cb35-47d0-911a-dd06049c43d0-168461526676d16f71-1": {
+          "type": "product",
+          "settings": {
+            "product": "",
+            "second_image": false
+          }
+        },
+        "template--19056026976563__67024b64-cb35-47d0-911a-dd06049c43d0-168461526676d16f71-2": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19056026976563__67024b64-cb35-47d0-911a-dd06049c43d0-168461526676d16f71-0",
+        "template--19056026976563__67024b64-cb35-47d0-911a-dd06049c43d0-168461526676d16f71-1",
+        "template--19056026976563__67024b64-cb35-47d0-911a-dd06049c43d0-168461526676d16f71-2"
+      ],
+      "settings": {
+        "heading": "Multimedia collage",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "column",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -446,9 +446,9 @@
     "06ec2151-5456-4162-9d72-b39574ae4a22",
     "a6357bd7-cbc6-47e4-a0aa-afb8fdb06338",
     "e63ab835-f825-4862-b338-9a5847de9291",
+    "f7f12f62-a13d-462d-bf3e-5a65f0b904c5",
     "7c8b0671-a8c3-4bdd-8170-94e3a26d4400",
     "52995bda-eb4b-455a-9853-2d584ee45757",
-    "67024b64-cb35-47d0-911a-dd06049c43d0",
-    "f7f12f62-a13d-462d-bf3e-5a65f0b904c5"
+    "67024b64-cb35-47d0-911a-dd06049c43d0"
   ]
 }
