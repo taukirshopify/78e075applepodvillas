@@ -152,7 +152,7 @@
         ".title,.title-wrapper-with-link {margin: 0;}"
       ],
       "settings": {
-        "h2": "Comfortable Room In Lovely Apartment",
+        "h2": "Comfortable Room In A Lovely Apartment",
         "img": "shopify:\/\/shop_images\/image_picker-591-000000C95FF61B6B_5f22fd9d-b075-4431-a220-fd5aaf167413.jpg",
         "img1": "shopify:\/\/shop_images\/3.jpg",
         "img2": "shopify:\/\/shop_images\/image_picker-591-000000C95FF61B6B_5f22fd9d-b075-4431-a220-fd5aaf167413.jpg",
@@ -165,6 +165,7 @@
       "blocks": {
         "template--19018583703859__a6357bd7-cbc6-47e4-a0aa-afb8fdb06338-1683739024cd64db21-0": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "{{ section.settings.product.vendor }}",
             "text_style": "uppercase"
