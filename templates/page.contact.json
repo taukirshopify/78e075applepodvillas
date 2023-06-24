@@ -16,7 +16,7 @@
         "template--19056027566387__738c1e69-d5a8-431c-ac07-508b8ab6e055-168503120131254674-0": {
           "type": "heading",
           "settings": {
-            "heading": "✉  info@applepodvillas.com    ☎   <a href=\"tel:+3479098581\">347-909-8581 <\/a>",
+            "heading": "✉ applepodvillas@gmail.com    ☎   <a href=\"tel:+3479098581\">347-909-8581 <\/a>",
             "heading_size": "h1"
           }
         },
@@ -33,7 +33,7 @@
       ],
       "custom_css": [
         "h2.rich-text__heading.rte.inline-richtext.h1 {color: #000;}",
-        ".rte a:hover {color: #000; text-decoration-thickness: .2rem;}"
+        ".rte a:hover {color: #000; text-decoration-thickness: 0.2rem;}"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -59,7 +59,7 @@
       "disabled": true,
       "blocks": {
         "fa19eec1-d517-4ccd-ace9-dae98bab1a66": {
-          "type": "shopify:\/\/apps\/izyrent-rentals-bookings\/blocks\/productCalendar\/cda4a37a-6d4d-4f3d-b8e5-c19d5c367c6a",
+          "type": "shopify:\/\/apps\/izyrent\/blocks\/productCalendar\/cda4a37a-6d4d-4f3d-b8e5-c19d5c367c6a",
           "settings": {
             "product": "luxury-room-view-all"
           }
