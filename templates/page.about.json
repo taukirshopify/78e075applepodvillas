@@ -35,7 +35,7 @@
         "button"
       ],
       "custom_css": [
-        "h2.rich-text__heading.rte.inline-richtext.h0 {color: #000;}",
+        "h1.rich-text__heading.rte.inline-richtext.h0 {color: #000;}",
         "p {color: #000;}",
         ".banner__content {margin-bottom: -52px;}"
       ],
