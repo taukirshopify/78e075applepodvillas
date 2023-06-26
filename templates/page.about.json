@@ -13,7 +13,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Apple Pod Villas is your home away from home Brooklyn experience like no other. Whether if you are on vacation, business travel or just need to get away. Apple Pod Villas is where you want to be to relax and be at peace. Guest areas are very cozy and well maintained.<\/p>"
+            "text": "<p>Apple Pod Villas is your home away from home Brooklyn experience like no other. Whether if you are on vacation, business travel or just need to get away. Apple Pod Villas is where you want to be to relax and be at peace. Guest areas are very cozy and well maintained. <\/p>"
           }
         },
         "button": {
@@ -35,7 +35,7 @@
         "button"
       ],
       "custom_css": [
-        "h2.rich-text__heading.rte.inline-richtext.h0 {color: #000;}",
+        "h1.rich-text__heading.rte.inline-richtext.h0 {color: #000;}",
         "p {color: #000;}",
         ".banner__content {margin-bottom: -52px;}"
       ],
