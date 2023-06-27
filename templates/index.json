@@ -181,12 +181,32 @@
             "color_scheme": "background-1",
             "text_alignment_mobile": "center"
           }
+        },
+        "9eed13a5-dcd1-49a6-83e6-767cb8468281": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG-0305_e10cfa80-bfda-47ab-b511-220bf9627ea4.jpg",
+            "image2": "shopify:\/\/shop_images\/IMG-0305_e10cfa80-bfda-47ab-b511-220bf9627ea4.jpg",
+            "heading": "BATHROOM",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
         }
       },
       "block_order": [
         "template--19056026976563__b510e392-d552-4f4f-8757-63cf0b5331fb-1687830981126cae54-0",
         "template--19056026976563__b510e392-d552-4f4f-8757-63cf0b5331fb-1687830981126cae54-1",
-        "1f278a32-b30a-4425-a73d-fa56df6174df"
+        "1f278a32-b30a-4425-a73d-fa56df6174df",
+        "9eed13a5-dcd1-49a6-83e6-767cb8468281"
       ],
       "settings": {
         "layout": "full_bleed",
