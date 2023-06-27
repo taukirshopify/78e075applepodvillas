@@ -140,6 +140,7 @@
         },
         "template--19056026976563__41425e45-8fb8-47a9-a1ab-f56aa97a8e16-168783438264c3e80b-2": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_label": "Button label",
             "button_link": "",
@@ -160,8 +161,8 @@
         "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "b510e392-d552-4f4f-8757-63cf0b5331fb": {
