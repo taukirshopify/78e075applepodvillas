@@ -469,7 +469,7 @@
         "template--19018583703859__7c8b0671-a8c3-4bdd-8170-94e3a26d4400-16837387419acd0bb6-0": {
           "type": "heading",
           "settings": {
-            "heading": "FIND US HERE",
+            "heading": "<strong>FIND US HERE<\/strong>",
             "heading_size": "h1"
           }
         }
