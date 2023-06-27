@@ -79,6 +79,50 @@
         "accessibility_info": "Slideshow about our brand"
       }
     },
+    "08fec397-199b-4725-ae5b-4e8437c0a80a": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19056026976563__08fec397-199b-4725-ae5b-4e8437c0a80a-1687830213ea6c8cbd-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Comfortable Two Bedroom AIRBNB STAY",
+            "heading_size": "h1"
+          }
+        },
+        "template--19056026976563__08fec397-199b-4725-ae5b-4e8437c0a80a-1687830213ea6c8cbd-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "template--19056026976563__08fec397-199b-4725-ae5b-4e8437c0a80a-1687830213ea6c8cbd-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--19056026976563__08fec397-199b-4725-ae5b-4e8437c0a80a-1687830213ea6c8cbd-0",
+        "template--19056026976563__08fec397-199b-4725-ae5b-4e8437c0a80a-1687830213ea6c8cbd-1",
+        "template--19056026976563__08fec397-199b-4725-ae5b-4e8437c0a80a-1687830213ea6c8cbd-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "featured_collection": {
       "type": "featured-collection",
       "disabled": true,
@@ -442,6 +486,7 @@
   },
   "order": [
     "1a51cb04-ec99-414a-ba01-00118565be96",
+    "08fec397-199b-4725-ae5b-4e8437c0a80a",
     "featured_collection",
     "f52f1fd5-ed3a-4d6d-a670-3533629b4442",
     "06ec2151-5456-4162-9d72-b39574ae4a22",
