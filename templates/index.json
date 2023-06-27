@@ -216,6 +216,7 @@
       "blocks": {
         "template--19056026976563__41425e45-8fb8-47a9-a1ab-f56aa97a8e16-168783438264c3e80b-0": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "OUR VILLA PROVIDES",
             "heading_size": "h1"
