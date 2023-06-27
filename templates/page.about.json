@@ -219,7 +219,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<ul><li>Free Wifi<\/li><li>Five People can sleep comfortably<\/li><li>Work Desk<\/li><li>Hair Dryer<\/li><\/ul>",
+            "text": "<h3>Free Wifi<\/h3><h3>Five People can sleep comfortably<\/h3><h3>Work Desk<\/h3><h3>Hair Dryer<\/h3>",
             "link_label": "",
             "link": ""
           }
@@ -228,7 +228,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<ul><li>Large TV<\/li><li>Radio<\/li><li>Kitchen and More<\/li><\/ul>",
+            "text": "<h3>Large TV<\/h3><h3>Radio<\/h3><h3>Kitchen and More<\/h3><h3>Access Transportantion<\/h3>",
             "link_label": "",
             "link": ""
           }
