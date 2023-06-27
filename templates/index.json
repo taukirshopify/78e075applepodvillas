@@ -167,6 +167,50 @@
         "padding_bottom": 52
       }
     },
+    "ed548c94-dc98-4c02-844d-bca5b8184f5d": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19056026976563__ed548c94-dc98-4c02-844d-bca5b8184f5d-168783438264c3e80b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "OUR VILLA PROVIDES",
+            "heading_size": "h1"
+          }
+        },
+        "template--19056026976563__ed548c94-dc98-4c02-844d-bca5b8184f5d-168783438264c3e80b-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "template--19056026976563__ed548c94-dc98-4c02-844d-bca5b8184f5d-168783438264c3e80b-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--19056026976563__ed548c94-dc98-4c02-844d-bca5b8184f5d-168783438264c3e80b-0",
+        "template--19056026976563__ed548c94-dc98-4c02-844d-bca5b8184f5d-168783438264c3e80b-1",
+        "template--19056026976563__ed548c94-dc98-4c02-844d-bca5b8184f5d-168783438264c3e80b-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-2",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "41425e45-8fb8-47a9-a1ab-f56aa97a8e16": {
       "type": "rich-text",
       "blocks": {
@@ -765,54 +809,13 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "ed548c94-dc98-4c02-844d-bca5b8184f5d": {
-      "type": "rich-text",
-      "blocks": {
-        "template--19056026976563__ed548c94-dc98-4c02-844d-bca5b8184f5d-168783438264c3e80b-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "OUR VILLA PROVIDES",
-            "heading_size": "h1"
-          }
-        },
-        "template--19056026976563__ed548c94-dc98-4c02-844d-bca5b8184f5d-168783438264c3e80b-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
-        },
-        "template--19056026976563__ed548c94-dc98-4c02-844d-bca5b8184f5d-168783438264c3e80b-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--19056026976563__ed548c94-dc98-4c02-844d-bca5b8184f5d-168783438264c3e80b-0",
-        "template--19056026976563__ed548c94-dc98-4c02-844d-bca5b8184f5d-168783438264c3e80b-1",
-        "template--19056026976563__ed548c94-dc98-4c02-844d-bca5b8184f5d-168783438264c3e80b-2"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
     }
   },
   "order": [
     "1a51cb04-ec99-414a-ba01-00118565be96",
     "9035e0ee-e1ca-4689-a010-e843d1e5116b",
     "08fec397-199b-4725-ae5b-4e8437c0a80a",
+    "ed548c94-dc98-4c02-844d-bca5b8184f5d",
     "41425e45-8fb8-47a9-a1ab-f56aa97a8e16",
     "b510e392-d552-4f4f-8757-63cf0b5331fb",
     "featured_collection",
@@ -824,7 +827,6 @@
     "f7f12f62-a13d-462d-bf3e-5a65f0b904c5",
     "7c8b0671-a8c3-4bdd-8170-94e3a26d4400",
     "52995bda-eb4b-455a-9853-2d584ee45757",
-    "67024b64-cb35-47d0-911a-dd06049c43d0",
-    "ed548c94-dc98-4c02-844d-bca5b8184f5d"
+    "67024b64-cb35-47d0-911a-dd06049c43d0"
   ]
 }
