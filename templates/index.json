@@ -152,6 +152,7 @@
     },
     "f52f1fd5-ed3a-4d6d-a670-3533629b4442": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "template--19018583703859__f52f1fd5-ed3a-4d6d-a670-3533629b4442-16837347495220b262-0": {
           "type": "heading",
@@ -195,7 +196,7 @@
         ".title,.title-wrapper-with-link {margin: 0;}"
       ],
       "settings": {
-        "h2": "Comfortable Room In A Lovely Apartment",
+        "h2": "",
         "img": "shopify:\/\/shop_images\/43457.jpg",
         "img1": "shopify:\/\/shop_images\/3.jpg",
         "img2": "shopify:\/\/shop_images\/IMG-0305.jpg",
