@@ -570,7 +570,8 @@
         "template--19018583703859__a6357bd7-cbc6-47e4-a0aa-afb8fdb06338-1683739024cd64db21-6"
       ],
       "custom_css": [
-        "button.button {color: #000;}"
+        "button.button {color: #000;}",
+        "span.badge.price__badge-sale {color: #fff;}"
       ],
       "settings": {
         "product": "luxury-room-view-all",
